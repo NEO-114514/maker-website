@@ -6,4 +6,8 @@ title: Hello！ XMU Maker！
 
 ### 初代机照片111
 
-![](https://github.com/NEO-114514/maker-website/blob/main/source/_posts/maker-server%E7%9A%84%E9%85%8D%E7%BD%AE/inteln100.png)
+![](maker-server的配置/inteln100.png)
+
+<img scr=".\maker-server的配置\inteln100.png">
+
+{% asset_img example.jpg This is an example image %}
