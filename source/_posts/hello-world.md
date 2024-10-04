@@ -6,4 +6,4 @@ title: Hello！ XMU Maker！
 
 ### 初代机照片
 
-![alt text](picture_update/inteln100.png)
+![](inteln100.png)
