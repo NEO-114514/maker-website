@@ -107,5 +107,10 @@ theme: fluid
 deploy:
   type: ''
 
+index:
+  slogan:
+    enable: true
+    text: This is XMU Maker !
 
 
+renderer: marked
